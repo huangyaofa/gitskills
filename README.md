@@ -51,4 +51,4 @@ $ git status
 #
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
->git status命令可以让我们时刻掌握仓库当前的状态，上面的命令告诉我们，readme.txt被修改过了，但还没有准备提交的修改。
+
